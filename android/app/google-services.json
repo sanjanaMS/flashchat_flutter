@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345006774147",
+    "project_id": "flashchat-f7a74",
+    "storage_bucket": "flashchat-f7a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345006774147:android:5dcd02efb90db8f3b8c8b6",
+        "android_client_info": {
+          "package_name": "co.sanjana.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345006774147-pimj9bglge3sv8nb550r0vtuo8kgh51n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD--SyjGN5e3iSBvBEGfyuOCldXKf7WpO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345006774147-pimj9bglge3sv8nb550r0vtuo8kgh51n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
